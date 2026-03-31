@@ -56,4 +56,4 @@ The pipeline is modular, allowing individual components (chunking, embeddings, r
 
 
 ## Summary
-This project focuses on building a practical RAG system while understanding that retrieval quality—not generation—is often the main bottleneck in producing reliable answers.
+This project focuses on building a practical RAG system while understanding that retrieval quality not generation is often the main bottleneck in producing reliable answers.
